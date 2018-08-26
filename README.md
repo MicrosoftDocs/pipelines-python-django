@@ -4,12 +4,9 @@ For information on how to use this repository, see [Python](https://docs.microso
 
 | Example | Build status |
 |---------|--------------|
-| Build | [![Build status](https://pipelines-docs.visualstudio.com/docs/_apis/build/status/dotnetcore/dotnetcore)](https://pipelines-docs.visualstudio.com/docs/_build/latest?definitionId=1) |
-| Build (YAML) | [![Build status](https://pipelines-docs.visualstudio.com/docs/_apis/build/status/dotnetcore/dotnetcore-yaml)](https://pipelines-docs.visualstudio.com/docs/_build/latest?definitionId=2) |
-| Build image and push to Docker Hub | [![Build status](https://pipelines-docs.visualstudio.com/docs/_apis/build/status/dotnetcore/dotnetcore-dockerhub)](https://pipelines-docs.visualstudio.com/docs/_build/latest?definitionId=3) |
-| Build image and push to Docker Hub (YAML) | [![Build status](https://pipelines-docs.visualstudio.com/docs/_apis/build/status/dotnetcore/dotnetcore-dockerhub-yaml)](https://pipelines-docs.visualstudio.com/docs/_build/latest?definitionId=4) |
-| Build image and push to Azure Container Registry | [![Build status](https://pipelines-docs.visualstudio.com/docs/_apis/build/status/dotnetcore/dotnetcore-acr)](https://pipelines-docs.visualstudio.com/docs/_build/latest?definitionId=5) |
-| Build image and push to Azure Container Registry (YAML) | [![Build status](https://pipelines-docs.visualstudio.com/docs/_apis/build/status/dotnetcore/dotnetcore-acr-yaml)](https://pipelines-docs.visualstudio.com/docs/_build/latest?definitionId=6) |
+| Build (YAML) | [![Build status](https://pipelines-docs.visualstudio.com/docs/_apis/build/status/python-django/python)](https://pipelines-docs.visualstudio.com/docs/_build/latest?definitionId=13) |
+| Build image and push to Docker Hub (YAML) | [![Build status](https://pipelines-docs.visualstudio.com/docs/_apis/build/status/python-django/python-dockerhub)](https://pipelines-docs.visualstudio.com/docs/_build/latest?definitionId=14) |
+| Build image and push to Azure Container Registry (YAML) | [![Build status](https://pipelines-docs.visualstudio.com/docs/_apis/build/status/python-django/python-acr)](https://pipelines-docs.visualstudio.com/docs/_build/latest?definitionId=15) |
 
 # Contributing
 
