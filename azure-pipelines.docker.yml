@@ -1,5 +1,5 @@
-# Build Docker image for this app
-# http://docs.microsoft.com/vsts/pipelines/languages/docker?view=vsts
+# Build Docker image for this app using Azure Pipelines
+# http://docs.microsoft.com/azure/devops/pipelines/languages/docker?view=vsts
 
 queue: 'Hosted Linux Preview'
 
