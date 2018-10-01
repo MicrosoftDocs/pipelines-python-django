@@ -38,3 +38,7 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+# Tips for Django First Timers
+
+Django is a matured opinionated framework with tons of features that you may find quiet overwhelming if you are studying it for the first time.So the key to success is having core concepts in python (familiar with usage of maps).If you find Django overwhelming you can start with Flask as it is a minimal framework and you will get to know how a web framework works.
