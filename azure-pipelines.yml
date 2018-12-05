@@ -40,6 +40,7 @@ steps:
   displayName: 'Run tests'
 
 - task: PublishTestResults@2
+  condition: succeededOrFailed()
   inputs:
     testResultsFiles: "**/TEST-*.xml"
     testRunTitle: 'Python $(PYTHON_VERSION)'
