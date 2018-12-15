@@ -1,5 +1,5 @@
 # Sample Python app for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/syedrizvi0287/BrainGaleDevOpsPublicProject/_apis/build/status/NasrullahRizvi.pipelines-python-django?branchName=master)](https://dev.azure.com/syedrizvi0287/BrainGaleDevOpsPublicProject/_build/latest?definitionId=15?branchName=master)
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
 | Example | Build status |
