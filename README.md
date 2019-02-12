@@ -1,4 +1,5 @@
 https://github.com/MicrosoftDocs/pipelines-python-django
+# Test if unmerged PR can trigger automatic pipeline build
 # new update to trigger automatic pipeline
 # Sample Python app for Azure Pipelines docs
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
